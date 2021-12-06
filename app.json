@@ -1,11 +1,11 @@
 {
-    "name": "✬Sew Queen✬",
+    "name": "✬Sew Whatsapp Bot✬",
     "description": "World Best Whatsapp Bot",
     "logo": "https://i.ibb.co/GnqjtyG/164ff8587741.jpg",
     "keywords": ["sew", "sewqueen"],
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
+        "SEW_QUEEN_SESSION": {
             "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
             "required": true
         },
